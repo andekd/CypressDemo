@@ -1,1 +1,8 @@
-{}
+{
+  "defaultCommandTimeout": 15000,
+  "requestTimeout": 15000,
+  "viewportWidth": 1200,
+  "viewportHeight": 1000,
+  "numTestsKeptInMemory": 3,
+  "chromeWebSecurity": false
+}
